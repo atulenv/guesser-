@@ -1,8 +1,8 @@
 import random
 
 
-target = list("ashwin sir")
-current = list("0000000000") 
+target = list(input("Target:"))
+current = list(input("Start From :"))
 alphabet = " abcdefghijklmnopqrstuvwxyz"
 attempts = 0
 
